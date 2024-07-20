@@ -1,6 +1,8 @@
 ![Static Badge](https://img.shields.io/badge/Ariel%20Spencer-Jogo%20do%20N%C3%BAmero%20Secreto-%238472E8)
  ![GitHub License](https://img.shields.io/github/license/arielspencer/jogo-do-numero-secreto)
 
+![banner jogo do numero secreto](https://github.com/ArielSpencer/jogo-do-numero-secreto/blob/f86c3dec8bc5d8d182e364ada81f626c727a27e7/img/jogo-do-numero-secreto.png)
+
 <h2>✏️ Sobre</h2>
 <p>No curso de Lógica de Programação da Alura, desenvolvi esse projeto: um jogo de adivinhação onde o usuário precisa descobrir um número secreto gerado aleatoriamente. O objetivo principal deste projeto é aplicar os conceitos de lógica de programação de maneira prática com JavaScript.</p>
 
